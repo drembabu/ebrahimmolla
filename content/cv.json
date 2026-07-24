@@ -256,6 +256,18 @@
     "title": "Honours & Awards",
     "entries": [
       {
+        "title": "Swedish Institute Scholarship for Global Professionals (SISGP)",
+        "organization": "Swedish Institute",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Swedish Institute logo",
+        "flag": "SE",
+        "flag_alt": "Sweden flag",
+        "bullets": [
+          "Awarded the competitive scholarship of the Swedish Institute among 13000+ professionals for the master's program in health economics policy and management at KI."
+        ]
+      },
+      {
         "title": "ESCMID Global 2026 Outreach Grant",
         "organization": "European Society of Clinical Microbiology and Infectious Diseases (ESCMID)",
         "dates": "2026",
