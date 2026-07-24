@@ -1,0 +1,331 @@
+[
+  {
+    "title": "Work Experience",
+    "entries": [
+      {
+        "title": "Medical Officer",
+        "organization": "Khulna Medical College Hospital, Government of the People's Republic of Bangladesh",
+        "dates": "DEC 2022 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Khulna Medical College Hospital logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Lead antimicrobial stewardship activities: audit-feedback mechanisms, empiric therapy alignment with national guidelines, and resistance surveillance integration.",
+          "Drive EMR transformation in orthopedic outpatient services: standardized templates, staff training, and improved data completeness (from 85% to 97%).",
+          "Directed the hospital's infection prevention and control (IPC) rollout, aligning clinicians, nurses, and support staff to standardize protocols across high-volume wards, and launched a color-coded waste-management program.",
+          "Provide clinical care for 50+ patients daily in an over-capacity tertiary care setting."
+        ]
+      },
+      {
+        "title": "Resident Medical Officer / Medical Officer, Disease Control",
+        "organization": "Terokhada Upazila Health Complex, Government of the People's Republic of Bangladesh",
+        "dates": "DEC 2019 - DEC 2022",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Terokhada Upazila Health Complex logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Led public health activities and community outreach to boost awareness and service uptake.",
+          "Coordinated with public health officers, epidemiologists, health educators, and local government to deliver quarantine, isolation, and treatment for 2,000+ COVID-19 patients.",
+          "Led contact tracing operations with 150+ healthcare workers and 50 volunteers, from case investigation to follow-up.",
+          "Served as local administrator for the Government's vaccination platform (Surokkha), resolving registration and scheduling issues.",
+          "Directed the COVID-19 vaccination campaign for 150,000+ people, achieving 99.7% of the target coverage."
+        ]
+      },
+      {
+        "title": "Medical Officer (Maternal, Child Health and Family Planning)",
+        "organization": "Morrelganj Family Planning Office, Government of the People's Republic of Bangladesh",
+        "dates": "MAY 2019 - NOV 2019",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Morrelganj Family Planning Office logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Provided family planning services, delivering counseling, ensuring contraceptive availability, and promoting gender-equitable decision-making.",
+          "Delivered comprehensive maternal and child health care, including antenatal care, safe delivery, postnatal follow-up, and newborn care with nutrition, vaccination, and breastfeeding support.",
+          "Served as Drawing and Disbursing Officer: managed treasury drawdowns and disbursed funds to authorized recipients, maintaining complete, audit-ready records.",
+          "Managed data collection from 200+ field staff, analyzed weekly datasets, and ensured timely DHIS2 uploads."
+        ]
+      },
+      {
+        "title": "Medical Officer",
+        "organization": "Faridpur Desh Clinic (Pvt.) Ltd.",
+        "dates": "JAN 2017 - APR 2019",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Faridpur Desh Clinic logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Assisted the consultant with patient history taking.",
+          "Kept medical records of patients.",
+          "Assisted in surgery."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Research Experience",
+    "entries": [
+      {
+        "title": "From Register to Electronic Medical Records: A Data-Quality Audit in a Bangladeshi Orthopaedic Outpatient Department",
+        "organization": "Khulna Medical College Hospital",
+        "dates": "JAN 2025 - JUN 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Khulna Medical College Hospital logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Retrospective audit of 4,085 orthopedic outpatient records assessing completeness, validity, and internal consistency.",
+          "Provided evidence for EMR implementation in a resource-limited setting.",
+          "Preprint posted; manuscript under review at BMC Health Services Research."
+        ]
+      },
+      {
+        "title": "Hidden Co-resistance Modules in Wound Enterobacterales: Network-based Evidence from a Bangladeshi Tertiary Hospital (2018-2022)",
+        "organization": "Khulna Medical College Hospital",
+        "dates": "2024 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Khulna Medical College Hospital logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Quantified third-generation cephalosporin resistance patterns.",
+          "Mapped co-resistance networks to identify carbapenem-sparing options.",
+          "Led study design, analysis, and manuscript preparation; manuscript under final co-author review."
+        ]
+      },
+      {
+        "title": "Co-resistance Network Identifies Antibiotic Hub Signals for Empiric Pseudomonas aeruginosa Wound Therapy",
+        "organization": "Khulna Medical College Hospital",
+        "dates": "2024 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Khulna Medical College Hospital logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Analyzed resistance profiles using CLSI disk diffusion.",
+          "Built a co-resistance network using Spearman correlations and bootstrap validation.",
+          "Poster presented at the BSAC Winter Conference: Infection 2025, Birmingham, UK."
+        ]
+      },
+      {
+        "title": "Field Epidemiology Thesis: Determinants of the Low Institutional Delivery in the Rural Community of Selected Sub-districts in Bangladesh",
+        "organization": "Institute of Epidemiology, Disease Control and Research (IEDCR), Dhaka",
+        "dates": "DEC 2022 - DEC 2023",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "IEDCR logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Conducted outbreak investigation, surveillance systems evaluation, and data analysis as part of the Intermediate Field Epidemiology Training Program (IFETP)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Education",
+    "entries": [
+      {
+        "title": "Master's in Health Economics, Policy and Management",
+        "organization": "Karolinska Institutet, Stockholm, Sweden",
+        "dates": "AUG 2026 - MAY 2028",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Karolinska Institutet logo",
+        "flag": "SE",
+        "flag_alt": "Sweden flag",
+        "bullets": []
+      },
+      {
+        "title": "Intermediate Field Epidemiology Training Program (IFETP)",
+        "organization": "Institute of Epidemiology, Disease Control and Research, Bangladesh, with U.S. CDC and EMPHNET",
+        "dates": "DEC 2022 - DEC 2023",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "IEDCR logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Outbreak investigation, surveillance systems evaluation, and data analysis.",
+          "Thesis: Determinants of the low institutional delivery in the rural community of the selected sub-districts in Bangladesh."
+        ]
+      },
+      {
+        "title": "Internship",
+        "organization": "Faridpur Medical College Hospital",
+        "dates": "NOV 2015 - NOV 2016",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Faridpur Medical College Hospital logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Managed comprehensive patient care across the Medicine, Surgery, and Gynecology departments.",
+          "Assisted in surgical procedures and post-operative care.",
+          "Provided antenatal and postnatal care in the Gynecology ward.",
+          "Participated in multidisciplinary case discussions and clinical rounds."
+        ]
+      },
+      {
+        "title": "Bachelor of Medicine and Surgery (MBBS)",
+        "organization": "Faridpur Medical College, University of Dhaka",
+        "dates": "2009 - 2015",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Faridpur Medical College logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Final grade: Pass",
+          "Thesis: Utility of telemedicine by pregnant women in underserved areas during their emergencies: perceptions and challenges."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Volunteering & Leadership",
+    "entries": [
+      {
+        "title": "Local Volunteer",
+        "organization": "CARE Bangladesh, at Upazila Health Complex, Terokhada, Khulna",
+        "dates": "JUL 2021 - SEP 2022",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "CARE Bangladesh logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Coordinated with CARE Bangladesh and government health departments to streamline digital registration.",
+          "Supervised booths and assisted elderly and digitally underserved citizens; managed scheduling and supported vaccinators.",
+          "Ensured data integrity with accurate records and rapid technical troubleshooting.",
+          "Drove community mobilization and awareness with local authorities to improve vaccine uptake."
+        ]
+      },
+      {
+        "title": "Local Volunteer",
+        "organization": "Rotary Club of Greater Khulna",
+        "dates": "DEC 2019 - JUL 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Rotary Club of Greater Khulna logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Arranged and led regular health camps and health promotion programs.",
+          "Led a team of ten young physicians and supervised temporary quarantine and isolation centers during the COVID-19 pandemic.",
+          "Provided medical care and health education through telemedicine to about 2,000+ underserved people during the pandemic."
+        ]
+      },
+      {
+        "title": "President, Asst. General Secretary, Patient Welfare Secretary",
+        "organization": "SANDHANI, Faridpur Medical College Unit",
+        "dates": "JAN 2009 - DEC 2013",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SANDHANI logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Led large-scale community health outreach: coordinated monthly health camps and 2-3 school health programs while directing 3-4 blood donation drives per month.",
+          "Organized 41 donation programs and collected 2,321 units, setting the highest annual record in the unit's history.",
+          "As president, oversaw budgeting and financial controls, and launched a sustainable monthly stipend for financially vulnerable medical students, which is still running."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Networks & Memberships",
+    "entries": [
+      {
+        "title": "Member",
+        "organization": "European Society of Clinical Microbiology and Infectious Diseases (ESCMID)",
+        "dates": "OCT 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "ESCMID logo",
+        "flag": "CH",
+        "flag_alt": "Switzerland flag",
+        "bullets": []
+      },
+      {
+        "title": "Member",
+        "organization": "Bangladesh Medical Association",
+        "dates": "JUN 2022 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Bangladesh Medical Association logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": []
+      }
+    ]
+  },
+  {
+    "title": "Honours & Awards",
+    "entries": [
+      {
+        "title": "ESCMID Global 2026 Outreach Grant",
+        "organization": "European Society of Clinical Microbiology and Infectious Diseases (ESCMID)",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "ESCMID logo",
+        "flag": "CH",
+        "flag_alt": "Switzerland flag",
+        "bullets": [
+          "Awarded a competitive Gates Foundation-sponsored Outreach Grant to participate in ESCMID Global 2026 (Munich, Germany) to present research on antimicrobial resistance (co-resistance networks) in low-resource settings."
+        ]
+      },
+      {
+        "title": "Orion Pharma Medical Scholarship",
+        "organization": "Orion Pharma Ltd.",
+        "dates": "JAN 2010",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Orion Pharma logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Awarded for exceptional and high-achieving MBBS students of government medical colleges, Faridpur Medical College, University of Dhaka."
+        ]
+      },
+      {
+        "title": "Higher Secondary Certificate Examination Scholarship Programme-2009",
+        "organization": "Board of Intermediate and Secondary Education, Jashore, Bangladesh",
+        "dates": "JUN 2009",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Board of Intermediate and Secondary Education logo",
+        "flag": "BD",
+        "flag_alt": "Bangladesh flag",
+        "bullets": [
+          "Government merit stipend for MBBS studies at Faridpur Medical College, based on Higher Secondary Certificate (HSC) examination results."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Skills & Languages",
+    "entries": [
+      {
+        "title": "Software & Data Tools",
+        "organization": "",
+        "dates": "",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Skills icon",
+        "flag": "",
+        "flag_alt": "",
+        "bullets": [
+          "Microsoft Office: Word, Excel, PowerPoint, Access",
+          "IBM SPSS (Statistical Package for the Social Sciences)",
+          "QGIS (basic level)",
+          "Epi Info",
+          "R / RStudio / R Markdown",
+          "Basic knowledge of Python programming"
+        ]
+      },
+      {
+        "title": "Languages",
+        "organization": "",
+        "dates": "",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Languages icon",
+        "flag": "",
+        "flag_alt": "",
+        "bullets": [
+          "Bengali (mother tongue)",
+          "English"
+        ]
+      }
+    ]
+  }
+]
