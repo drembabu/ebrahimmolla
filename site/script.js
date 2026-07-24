@@ -130,9 +130,9 @@ const setSiteContent = (site) => {
   renderLastUpdated();
 
   const aboutTitle = document.getElementById("aboutTitle");
-if (aboutTitle) {
-  aboutTitle.textContent = `About ${site.short_name || site.name}`;
-}
+  if (aboutTitle) {
+    aboutTitle.textContent = `About ${site.short_name || site.name}`;
+  }
   const bio = document.getElementById("aboutBio");
   if (bio) bio.innerHTML = site.bio_html || "";
   const profileImage = document.getElementById("profileImage");
@@ -148,6 +148,23 @@ if (aboutTitle) {
       const paragraph = document.createElement("p");
       paragraph.textContent = line;
       contact.appendChild(paragraph);
+    });
+  }
+
+  const quickFacts = document.getElementById("quickFacts");
+  if (quickFacts) {
+    quickFacts.innerHTML = "";
+    (site.quick_facts || []).forEach((fact) => {
+      const item = document.createElement("div");
+      item.className = "quick-fact";
+      const label = document.createElement("p");
+      label.className = "quick-fact-label";
+      label.textContent = fact.label;
+      const value = document.createElement("p");
+      value.className = "quick-fact-value";
+      value.textContent = fact.value;
+      item.append(label, value);
+      quickFacts.appendChild(item);
     });
   }
 
