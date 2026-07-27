@@ -1,30 +1,30 @@
 [
-  {
-    "title": "From Register to Electronic Medical Records: A Data-Quality Audit in a Bangladeshi Orthopaedic Outpatient Department",
-    "content": "Molla, M.E., et al.",
-    "publisher": "Preprint; manuscript under review at BMC Health Services Research, 2025",
-    "year": "2025",
-    "created_at": 20250715,
-    "doi": "10.21203/rs.3.rs-7791604/v1",
-    "link": "https://doi.org/10.21203/rs.3.rs-7791604/v1",
-    "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": [
-      "preprint",
-      "key_publications"
-    ]
-  },
-  {
-    "title": "Co-resistance Network Identifies Antibiotic Hub Signals for Empiric Pseudomonas aeruginosa Wound Therapy",
-    "content": "Molla, M.E., et al.",
-    "publisher": "JAC-Antimicrobial Resistance, Volume 7, Issue Supplement_4, 2025 \u00b7 Poster presented at BSAC Winter Conference: Infection 2025, Birmingham, UK",
-    "year": "2025",
-    "created_at": 20250401,
-    "doi": "10.1093/jacamr/dlaf230.078",
-    "link": "https://doi.org/10.1093/jacamr/dlaf230.078",
-    "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": [
-      "conference",
-      "key_publications"
-    ]
-  }
+    {
+          "title": "From Register to Electronic Medical Records: A Data-Quality Audit in a Bangladeshi Orthopaedic Outpatient Department",
+          "content": "Molla, M.E., et al.",
+          "publisher": "Preprint; manuscript under review at BMC Health Services Research, 2025",
+          "year": "2025",
+          "created_at": 20250715,
+          "doi": "10.21203/rs.3.rs-7791604/v1",
+          "link": "https://doi.org/10.21203/rs.3.rs-7791604/v1",
+          "image": "assets/images/publications/bmc-hsr-cover.png",
+          "tags": [
+                  "preprint",
+                  "key_publications"
+          ]
+    },
+    {
+          "title": "Co-resistance Network Identifies Antibiotic Hub Signals for Empiric Pseudomonas aeruginosa Wound Therapy",
+          "content": "Molla, M.E., et al.",
+          "publisher": "JAC-Antimicrobial Resistance, Volume 7, Issue Supplement_4, 2025 · Poster presented at BSAC Winter Conference: Infection 2025, Birmingham, UK",
+          "year": "2025",
+          "created_at": 20250401,
+          "doi": "10.1093/jacamr/dlaf230.078",
+          "link": "https://doi.org/10.1093/jacamr/dlaf230.078",
+          "image": "assets/images/publications/jac-amr-cover.png",
+          "tags": [
+                  "conference",
+                  "key_publications"
+          ]
+    }
 ]
