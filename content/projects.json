@@ -1,32 +1,42 @@
 [
-  {
-    "id": "emr-data-quality-audit",
-    "title": "From Register to Electronic Medical Records: A Data-Quality Audit",
-    "timeline": "JAN 2025 - JUN 2025",
-    "summary": "Retrospective audit of 4,085 orthopedic outpatient records assessing completeness, validity, and internal consistency, providing evidence for EMR implementation in a resource-limited setting.",
-    "description": "Retrospective audit of 4,085 orthopedic outpatient records. Assessed completeness, validity, and internal consistency. Provided evidence for EMR implementation in a resource-limited setting. Preprint posted; manuscript under review at BMC Health Services Research.",
-    "url": "pages/projects/emr-data-quality-audit.html",
-    "image": "assets/images/project-placeholder.svg",
-    "image_alt": "Electronic medical records data-quality audit project"
-  },
-  {
-    "id": "pseudomonas-co-resistance-network",
-    "title": "Co-resistance Network for Empiric Pseudomonas aeruginosa Wound Therapy",
-    "timeline": "2024 - Present",
-    "summary": "Built a co-resistance network from wound culture antibiograms to identify antibiotic hub signals that can guide empiric Pseudomonas aeruginosa wound therapy in resource-limited settings.",
-    "description": "Analyzed resistance profiles using CLSI disk diffusion. Built a co-resistance network using Spearman correlations and bootstrap validation. Poster presented at BSAC Winter Conference: Infection 2025, Birmingham, UK.",
-    "url": "pages/projects/pseudomonas-co-resistance-network.html",
-    "image": "assets/images/project-placeholder.svg",
-    "image_alt": "Pseudomonas aeruginosa co-resistance network project"
-  },
-  {
-    "id": "wound-enterobacterales-co-resistance",
-    "title": "Hidden Co-resistance Modules in Wound Enterobacterales",
-    "timeline": "2024 - Present",
-    "summary": "Network-based analysis of a Bangladeshi tertiary hospital's 2018-2022 wound culture data, quantifying third-generation cephalosporin resistance and mapping co-resistance modules to identify carbapenem-sparing treatment options.",
-    "description": "Quantified third-generation cephalosporin resistance patterns. Mapped co-resistance networks to identify carbapenem-sparing options. Led study design, analysis, and manuscript preparation. Manuscript under final co-author review.",
-    "url": "pages/projects/wound-enterobacterales-co-resistance.html",
-    "image": "assets/images/project-placeholder.svg",
-    "image_alt": "Wound Enterobacterales co-resistance network project"
-  }
+    {
+          "id": "emr-data-quality-audit",
+          "title": "From Register to Electronic Medical Records: A Data-Quality Audit",
+          "timeline": "JAN 2025 - JUN 2025",
+          "summary": "Retrospective audit of 4,085 orthopedic outpatient records assessing completeness, validity, and internal consistency, providing evidence for EMR implementation in a resource-limited setting.",
+          "description": "Retrospective audit of 4,085 orthopedic outpatient records. Assessed completeness, validity, and internal consistency. Provided evidence for EMR implementation in a resource-limited setting. Preprint posted; manuscript under review at BMC Health Services Research.",
+          "url": "pages/projects/emr-data-quality-audit.html",
+          "image": "assets/images/project-placeholder.svg",
+          "image_alt": "Electronic medical records data-quality audit project"
+    },
+    {
+          "id": "pseudomonas-co-resistance-network",
+          "title": "Co-resistance Network for Empiric Pseudomonas aeruginosa Wound Therapy",
+          "timeline": "2024 - Present",
+          "summary": "Built a co-resistance network from wound culture antibiograms to identify antibiotic hub signals that can guide empiric Pseudomonas aeruginosa wound therapy in resource-limited settings.",
+          "description": "Analyzed resistance profiles using CLSI disk diffusion. Built a co-resistance network using Spearman correlations and bootstrap validation. Poster presented at BSAC Winter Conference: Infection 2025, Birmingham, UK.",
+          "url": "pages/projects/pseudomonas-co-resistance-network.html",
+          "image": "assets/images/project-placeholder.svg",
+          "image_alt": "Pseudomonas aeruginosa co-resistance network project"
+    },
+    {
+          "id": "wound-enterobacterales-co-resistance",
+          "title": "Hidden Co-resistance Modules in Wound Enterobacterales",
+          "timeline": "2024 - Present",
+          "summary": "Network-based analysis of a Bangladeshi tertiary hospital's 2018-2022 wound culture data, quantifying third-generation cephalosporin resistance and mapping co-resistance modules to identify carbapenem-sparing treatment options.",
+          "description": "Quantified third-generation cephalosporin resistance patterns. Mapped co-resistance networks to identify carbapenem-sparing options. Led study design, analysis, and manuscript preparation. Manuscript under final co-author review.",
+          "url": "pages/projects/wound-enterobacterales-co-resistance.html",
+          "image": "assets/images/project-placeholder.svg",
+          "image_alt": "Wound Enterobacterales co-resistance network project"
+    },
+    {
+          "id": "institutional-delivery-determinants",
+          "title": "Determinants of Low Institutional Delivery in Rural Communities of Selected Sub-Districts in Bangladesh",
+          "timeline": "DEC 2022 - DEC 2023",
+          "summary": "Cross-sectional study of 384 mothers across 8 sub-districts in 7 districts identifying the determinants of low institutional delivery participation in rural Bangladesh.",
+          "description": "Conducted in 8 conveniently selected sub-districts across 7 districts, this study surveyed 384 mothers who gave birth in 2022 to identify factors affecting institutional childbirth participation. Institutional delivery was observed in nearly two-thirds of cases, with cesarean section in almost one in every three pregnancies. Higher institutional delivery practice was observed among mothers who completed antenatal care, were served by highly trained caregivers, lived near a hospital, and had good transportation access. A report has been prepared based on data interpretation and is being readied for submission and publication.",
+          "url": "pages/projects/institutional-delivery-determinants.html",
+          "image": "assets/images/projects/institutional-delivery-determinants.png",
+          "image_alt": "IEDCR institutional delivery determinants project"
+    }
 ]
