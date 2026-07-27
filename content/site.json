@@ -74,6 +74,11 @@
       "label": "Email",
       "url": "mailto:mbabu01718@gmail.com",
       "icon": "fa-solid fa-envelope"
+    },
+    {
+      "label": "WhatsApp",
+      "url": "https://wa.me/8801718861015",
+      "icon": "fa-brands fa-whatsapp"
     }
   ]
 }
