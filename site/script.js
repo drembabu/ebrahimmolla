@@ -94,14 +94,14 @@ const setSiteContent = (site) => {
     const container = document.createElement("div");
     container.className = "container";
     const paragraph = document.createElement("p");
-    paragraph.append(`© ${site.copyright_year} ${site.name} · ${site.footer_text} `);
+    paragraph.append(`Â© ${site.copyright_year} ${site.name} Â· ${site.footer_text} `);
     const updated = document.createElement("span");
     updated.className = "last-updated";
     updated.textContent = "--";
     paragraph.appendChild(updated);
 
     if (site.attribution?.source_url && site.attribution?.source_label) {
-      paragraph.append(` · ${site.attribution.prefix || "Adapted from"} `);
+      paragraph.append(` Â· ${site.attribution.prefix || "Adapted from"} `);
       const source = document.createElement("a");
       source.href = site.attribution.source_url;
       source.textContent = site.attribution.source_label;
@@ -175,8 +175,11 @@ const setSiteContent = (site) => {
       const link = document.createElement("a");
       link.className = `social-link${item.image ? " social-link-logo" : ""}`;
       link.href = item.url;
-      link.target = "_blank";
-      link.rel = "noopener noreferrer";
+      const opensExternally = !/^(mailto:|tel:)/i.test(item.url || "");
+      if (opensExternally) {
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+      }
       link.setAttribute("aria-label", item.label);
       if (item.image) {
         const image = document.createElement("img");
